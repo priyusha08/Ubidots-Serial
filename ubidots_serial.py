@@ -20,3 +20,5 @@ while True :
   humidity.save_value({'value':humidityvar})
   temperature.save_value({'value': tempvar})
   light.save_value({'value': lt})
+
+  
